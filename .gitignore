@@ -1,0 +1,12 @@
+# downloaded images
+downloads/
+
+# Pinterest login session (contains your cookies - NEVER commit this)
+pinterest_profile/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
